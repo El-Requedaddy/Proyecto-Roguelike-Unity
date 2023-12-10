@@ -87,9 +87,10 @@ my knowledge on Graphics and 3d maths.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap this project.
+This section should list any major frameworks/libraries used to set this project up.
 
-* [Unity](https://unity.com/es)
+* [![Unity]([URL_DEL_LOGO](https://1000logos.net/wp-content/uploads/2021/10/Unity-logo-500x281.png))](https://unity.com/es)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +105,7 @@ The link contains two versions. The normal version will be used to play as expec
 to be invulnerable so you can test and see the procedurally generated dungeon.
 
 ### Prerequisites
-Have a normal PC to run the game. 
+Have a normal PC to run the game. See on Unity's basic requisites for generated executables.
 
 ### Installation
 
