@@ -89,7 +89,7 @@ my knowledge on Graphics and 3d maths.
 
 This section should list any major frameworks/libraries used to set this project up.
 
-* [![Unity]([URL_DEL_LOGO](https://1000logos.net/wp-content/uploads/2021/10/Unity-logo-500x281.png))](https://unity.com/es)
+* [![Unity](https://logowik.com/content/uploads/images/unity-new-20212110.jpg)](https://unity.com/es)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
