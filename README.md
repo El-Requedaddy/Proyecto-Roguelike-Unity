@@ -87,8 +87,6 @@ my knowledge on Graphics and 3d maths.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to set this project up.
-
 [![Unity](https://i.redd.it/tu3gt6ysfxq71.png)](https://unity.com/es)
 
 
