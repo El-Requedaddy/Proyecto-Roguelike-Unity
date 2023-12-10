@@ -78,7 +78,8 @@
 
 </div>
 
-This project has been created out of my graphics and videogames love. I expect this project to allow me to start my journey on this world filled with maths and fun!!!
+This project has been created out of my graphics and videogames love. It is created using Unity Engine with focus on learning about the engine and exploiting
+my knowledge on Graphics and 3d maths. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
