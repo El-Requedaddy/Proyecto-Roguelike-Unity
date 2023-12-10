@@ -98,8 +98,8 @@ This section should list any major frameworks/libraries used to bootstrap this p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In order to execute this project it is needed to download the unity generates .exe.
-The link to the exectuable is the following: https://drive.google.com/file/d/1s0uv58padLk0aRHj3osZfxEcvVjAEwLT/view?usp=drive_link
+In order to execute this project it is needed to download the unity generated .exe's.
+The link to the exectuable is the following: https://drive.google.com/file/d/1s0uv58padLk0aRHj3osZfxEcvVjAEwLT/view?usp=drive_link.
 The link contains two versions. The normal version will be used to play as expected from a normal player, the alternative version allows you
 to be invulnerable so you can test and see the procedurally generated dungeon.
 
@@ -108,10 +108,8 @@ Have a normal PC to run the game.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Download from the previous link
-2. Execute a game version
+2. Execute the game version you'd like to play
 3. Enjoy and test it out!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -120,10 +118,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This project can be used to learn a few basics about building and structuring your first Unity game. It also can be used to start a project from this one as a template (only if you are a beginner).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
