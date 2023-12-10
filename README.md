@@ -203,7 +203,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [stars-shield]: 
 [stars-url]: 
 [issues-shield]: 
-[issues-url]: 
+[issues-url]: https://github.com/El-Requedaddy/Proyecto-Roguelike-Unity/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
