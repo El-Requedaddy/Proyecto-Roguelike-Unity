@@ -89,7 +89,7 @@ my knowledge on Graphics and 3d maths.
 
 This section should list any major frameworks/libraries used to set this project up.
 
-* [![Unity](https://logowik.com/content/uploads/images/unity-new-20212110.jpg)](https://unity.com/es)
+* [![Unity](https://i.redd.it/tu3gt6ysfxq71.png)](https://unity.com/es)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
