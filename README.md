@@ -9,7 +9,6 @@
 -->
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -35,7 +34,6 @@
   </a>
 
   <h3 align="center">Roguelike Project</h3>
-
 </div>
 
 
@@ -75,10 +73,9 @@
   <a href="Imagen Menu">
     <img src="https://i.imgur.com/Hn1xCfe.png" alt="Logo" width="400" height="250">
   </a>
-
 </div>
 
-This project has been created out of my graphics and videogames love. I expect this project to allow me to start my journey on this world filled with maths and fun!!!
+This project has been created out of my passion for graphics and video games. I expect this project to allow me to start my journey in this world filled with math and fun!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,13 +94,10 @@ This section should list any major frameworks/libraries used to bootstrap this p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In order to execute this project it is needed to download the unity generates .exe.
-The link to the exectuable is the following: https://drive.google.com/file/d/1s0uv58padLk0aRHj3osZfxEcvVjAEwLT/view?usp=drive_link
-The link contains two versions. The normal version will be used to play as expected from a normal player, the alternative version allows you
-to be invulnerable so you can test and see the procedurally generated dungeon.
+In order to execute this project, it is necessary to download the Unity-generated .exe file. The link to the executable is the following: [Game Executable](https://drive.google.com/file/d/1s0uv58padLk0aRHj3osZfxEcvVjAEwLT/view?usp=drive_link). The link contains two versions. The normal version is for regular gameplay, and the alternative version allows you to be invulnerable so you can test and explore the procedurally generated dungeon.
 
 ### Prerequisites
-Have a normal PC to run the game. 
+Have a standard PC to run the game. 
 
 ### Installation
 
@@ -120,7 +114,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples, and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -150,8 +144,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -196,16 +189,15 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: 
+[contributors-shield]: [![Contributors][contributors-shield]][contributors-url]
 [contributors-url]: 
-[forks-shield]: 
+[forks-shield]: [![Forks][forks-shield]][forks-url]
 [forks-url]: 
-[stars-shield]: 
+[stars-shield]: [![Stargazers][stars-shield]][stars-url]
 [stars-url]: 
-[issues-shield]: 
+[issues-shield]: [![Issues][issues-shield]][issues-url]
 [issues-url]: 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: [![MIT License][license-shield]][license-url]
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: [![LinkedIn][linkedin-shield]][linkedin-url]
 [linkedin-url]: https://www.linkedin.com/in/carlos-requena-doña-868b9a21a/
-
